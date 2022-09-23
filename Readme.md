@@ -1,4 +1,4 @@
-Qventus Take Home Challenge
+Take Home Challenge
 
 The project is build with Node and Postgres
 
